@@ -1,0 +1,2 @@
+crear proyecto node/express (npm init).
+instalar dependencias (express (npm i express), nodemon (npm i nodemon), morgan(npm i morgan)).
